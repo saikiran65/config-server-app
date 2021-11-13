@@ -1,4 +1,2 @@
-demo:
- confclientprops:
-  welcome: WELCOME TO ASHOKIT - from config server
-  greet: Good Morning - from config server >
+demo.confclientprops.welcome: WELCOME TO ASHOKIT - from config server
+demo.confclientprops.greet: Good Morning - from config server >
